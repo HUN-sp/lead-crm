@@ -53,6 +53,7 @@ lead-crm/
 │       ├── stateMachine.js    # Status transition rules and validation
 │       └── validators.js      # Input validation for lead fields
 ├── server.js                # Entry point — starts server, initialises cache
+├── LeadCRM.postman_collection.json  # Postman collection — import to test all endpoints
 ├── Dockerfile
 ├── docker-compose.yml
 ├── .env.example
