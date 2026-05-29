@@ -154,6 +154,8 @@ PORT=3000
 
 **Base URL:** `http://localhost:3000`
 
+A full **Postman collection** is included in the repo as `LeadCRM.postman_collection.json`. Import it directly into Postman to test all 35 requests across all 3 levels — requests auto-save IDs into variables so you don't need to copy-paste anything manually.
+
 ### Endpoints Summary
 
 | Method | Path | Description |
